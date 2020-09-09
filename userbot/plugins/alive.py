@@ -14,4 +14,4 @@ async def amireallyalive(alive):
     await alive.edit("`░█─░█ █▀▀ █── █── █▀▀█ \n░█▀▀█ █▀▀ █── █── █──█ \n░█─░█ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ \n\nYes Sir ! I'm Alive\n\nTelethon version: 6.9.0\nPython: 3.7.3\n\n`"
                     f"`My Master`: {DEFAULTUSER}\n"
                      "`My Owner`: @patheticSTFU\n\n"
-                     "Join [Channel](https://t.me/TechnoAyanBoT/) For Latest Updates")
+                     "Join [Channel](https://t.me/uwoeteam/) ")
